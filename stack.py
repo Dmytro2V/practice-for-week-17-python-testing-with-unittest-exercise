@@ -1,3 +1,4 @@
+# as this file in a root directory, it is like amodule without __init__.py
 class Stack:
     def __init__(self):
         self._values = []        
